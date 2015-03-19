@@ -68,5 +68,5 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ForsakenBacon/var-ForsakenBacon
-branch: master
+  repo: https://github.com/ForsakenBacon/var-ForsakenBacon.git
+branch: gh-pages
